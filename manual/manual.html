@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Limiari</title>
+    <style>
+        body {
+            color: rgb(0, 0, 0);
+            font: normal 12pt Arial;
+            margin: 0px;
+        }
+
+        div#base {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            flex-direction: row;
+            align-content: center;
+            margin-left: 20px;
+        }
+
+        div#cc {
+            width: 700px;
+            justify-content: center;
+            align-content: center;
+            text-align: justify;
+        }
+
+        dd {
+            margin-top: 5pt;
+        }
+
+        img {
+            margin-bottom: 12px;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>How to use Limiari</h1>
+
+    </center>
+    <div id="base">
+
+        <div id="cc">
+            <p>
+                <b>Limiari</b> is an application developed
+                for processing one/multiple digital images.
+                It has some implementations, such as:
+            </p>
+            <p>
+                <dl>
+                    <dt>In <b>“File”:</b></dt>
+                    <dd><b>Open</b> - Opens certain file(s) of type image.png to be processed in the program;</dd>
+                    <dd><b>Exit</b> - Closes the program.</dd>
+                </dl>
+            </p>
+            <p>
+                <dl>
+                    <dt>In <b>“Processing”:</b></dt>
+                    <dd><b>Grayscale</b> - Changes the color bytes of the selected images to grayscale;</dd>
+                    <center>
+                        <p>
+                            <img src="flower2.png" width="40%" alt="flower" title="flower">
+                            <img src="flower2-gray.png" width="40%" alt="flower">
+                        </p>
+                    </center>
+                    <dd><b>Negative Scale</b> - Changes the color bytes of the selected images to negative scale;</dd>
+                    <center>
+                        <p>
+                            <img src="flower2.png" width="40%" alt="flower">
+                            <img src="flower2-neg.png" width="40%" alt="flower">
+                        </p>
+                    </center>
+            </p>
+            <dd><b>Edges Detection</b> - Detects edges in the color bytes of images using specific filters:</dd>
+            <center>
+                <p></p>
+                <b>Robert Cross</b>
+                <p>
+                    <img src="flower2.png" width="40%" alt="flower">
+                    <img src="flower2-rob.png" width="40%" alt="flower">
+                </p>
+                <p></p>
+                <b>Sobel</b>
+                <p>
+                    <img src="flower2.png" width="40%" alt="flower">
+                    <img src="flower2-sob.png" width="40%" alt="flower">
+                </p>
+            </center>
+            </dl>
+            </p>
+        </div>
+    </div>
+    <script>
+
+    </script>
+</body>
+</html>

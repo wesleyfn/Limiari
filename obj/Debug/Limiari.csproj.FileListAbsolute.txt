@@ -1,0 +1,12 @@
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.AboutBox.resources
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.FormMain.resources
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.csproj.GenerateResource.cache
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\ImageProcessing\bin\Debug\Limiari.exe.config
+C:\Users\wesle\source\repos\ImageProcessing\bin\Debug\Limiari.exe
+C:\Users\wesle\source\repos\ImageProcessing\bin\Debug\Limiari.pdb
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.Properties.Resources.resources
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.exe
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.pdb
+C:\Users\wesle\source\repos\ImageProcessing\obj\Debug\Limiari.FormManual.resources
